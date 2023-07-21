@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Click on the &quot;Add to Wishlist&quot; button and Verify that the product is successfully added to the wishlist</description>
+   <name>Tc_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbc4b37a-cd2c-43cb-9402-baa9c4e85763</testCaseGuid>
+</TestCaseEntity>
